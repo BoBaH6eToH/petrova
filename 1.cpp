@@ -9,7 +9,7 @@ using namespace std;
 
 inline void part1()
 {
-	cout << "Ñëó÷àé 1" << endl;
+	cout << "Ğ¡Ğ»ÑƒÑ‡Ğ°Ğ¹ 1" << endl;
 	double x0;
 	int n, t;
 	cin >> x0 >> n >> t;	
@@ -27,7 +27,7 @@ inline void part1()
 
 inline void part2()
 {
-	cout << "Ñëó÷àé 2" << endl;
+	cout << "Ğ¡Ğ»ÑƒÑ‡Ğ°Ğ¹ 2" << endl;
 	double x0,gamma;
 	int n, t;
 	cin >> x0 >> gamma >> n >> t;
@@ -49,7 +49,7 @@ inline void part2()
 
 inline void part3()
 {
-	cout << "Ñëó÷àé 3" << endl;
+	cout << "Ğ¡Ğ»ÑƒÑ‡Ğ°Ğ¹ 3" << endl;
 	double x0, gamma;
 	int n, t;
 	cin >> x0 >> gamma >> n >> t;
@@ -70,7 +70,7 @@ inline void part3()
 
 inline void part4()
 {
-	cout << "Ñëó÷àé 4" << endl;
+	cout << "Ğ¡Ğ»ÑƒÑ‡Ğ°Ğ¹ 4" << endl;
 	double x0, gamma;
 	int n, t;
 	cin >> x0 >> gamma >> n >> t;
@@ -93,7 +93,7 @@ inline void part4()
 
 inline void part5()
 {
-	cout << "Ñëó÷àé 5" << endl;
+	cout << "Ğ¡Ğ»ÑƒÑ‡Ğ°Ğ¹ 5" << endl;
 	double x0, gamma1, gamma2;
 	int n, t;
 	cin >> x0 >> gamma1 >> gamma2 >> n >> t;
@@ -115,7 +115,7 @@ inline void part5()
 
 inline void part6()
 {
-	cout << "Ñëó÷àé 6" << endl;
+	cout << "Ğ¡Ğ»ÑƒÑ‡Ğ°Ğ¹ 6" << endl;
 	double x0, gamma1, gamma2;
 	int n, t;
 	cin >> x0 >> gamma1 >> gamma2 >> n >> t;
@@ -137,7 +137,7 @@ inline void part6()
 
 inline void part7()
 {
-	cout << "Ñëó÷àé 7" << endl;
+	cout << "Ğ¡Ğ»ÑƒÑ‡Ğ°Ğ¹ 7" << endl;
 	double x0, gamma;
 	int n, t;
 	cin >> x0 >> gamma >> n >> t;
@@ -157,7 +157,7 @@ inline void part7()
 
 inline void part8()
 {
-	cout << "Ñëó÷àé 8" << endl;
+	cout << "Ğ¡Ğ»ÑƒÑ‡Ğ°Ğ¹ 8" << endl;
 	double x0, gamma1, gamma2;
 	int n, t;
 	cin >> x0 >> gamma1 >> gamma2 >> n >> t;
@@ -178,7 +178,7 @@ inline void part8()
 
 inline void part9()
 {
-	cout << "Ñëó÷àé 9" << endl;
+	cout << "Ğ¡Ğ»ÑƒÑ‡Ğ°Ğ¹ 9" << endl;
 	double x0, gamma1, gamma2;
 	int n, t;
 	cin >> x0 >> gamma1 >> gamma2 >> n >> t;
